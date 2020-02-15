@@ -10,8 +10,8 @@ end
 
 
 def countdown_with_sleep(x)
-  x = 10 
+  x = 12 
    sleep 1 
    puts "#{x} SECOND(S)!"
-   x -= 10
+   x -= 12
  end 
